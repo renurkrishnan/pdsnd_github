@@ -12,5 +12,5 @@ Various statistics on popular day, popular route, gender statisitics are analyse
 Bikeshare.py, chicago.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity training
 
