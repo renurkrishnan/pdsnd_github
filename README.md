@@ -14,3 +14,6 @@ Bikeshare.py, chicago.csv
 ### Credits
 Udacity training
 
+### Usage
+If you want to check statisitics for a enw city, you can add a new .csv file and make amendments in the section where data is read.
+
